@@ -3,8 +3,8 @@
 #include <string>
 #include <algorithm>
 #include <chrono>
-
-class Book {
+class Book 
+{
 public:
     std::string title, author, ISBN;
     
